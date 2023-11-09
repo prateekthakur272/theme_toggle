@@ -1,16 +1,9 @@
-# theme_toggle
+# Manual Theme Toggle Flutter
 
-A new Flutter project.
+Change flutte app theme manually within app using flutte provider library
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Dependancies
+<ul>
+  <li>Flutte</li>
+  <li>Provider</li>
+</ul>
